@@ -4,6 +4,7 @@ title:  "Azure Container Registry and Service Principles"
 date:   2019-08-05 07:23:10 -0500
 categories: azure acr keyvault
 ---
+![boats-cargo-container-container-167676](https://user-images.githubusercontent.com/17349002/62460635-86e60900-b750-11e9-9872-1ba99d408d81.jpg)
 
 So you don't want to enable admin access to your Azure Container Registry?
 
